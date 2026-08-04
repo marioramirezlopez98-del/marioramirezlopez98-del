@@ -39,7 +39,3 @@ Soy **Desarrollador Full Stack**. Me apasiona construir aplicaciones web dinámi
 | **JWT Authentication App** | Sistema completo de autenticación y autorización de usuarios. Implementa registro, inicio de sesión, generación y validación de JSON Web Tokens (JWT) para proteger rutas privadas en el cliente y servidor. | React.js, Flask, Python, JWT, SQLAlchemy, Bootstrap | [Ver Repo](https://github.com/4GeeksAcademy/Authentication-JWT-Fask-React.js-mario-ramirez) |
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marioramirezlopez98-del&theme=radial)
